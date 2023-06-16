@@ -16,8 +16,8 @@ const client = new Client({
 client.slashcommands = new Collection()
 client.player = new Player(client)
 
-const TOKEN = "OTg0ODA2NjEyNzEzNzU0Njg1.GNhF4V.NqrNxwvkG6ZNZSN2DNspZhfJN3IULdIKFNLYs8"
-const CLIENT_ID = "984806612713754685"
+const TOKEN = "MTExNjE3NjgzODg4NTEyNjI5NA.GxOSB2.OwlWMCiwjqBwkKSnNQ5R6xOiGKrgd7pM-cIyOY"
+const CLIENT_ID = "1116176838885126294"
 
 let commands = []
 
